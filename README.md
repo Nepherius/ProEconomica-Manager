@@ -1,2 +1,2 @@
 # ProEconomica-Manager
-Auto Manages All JSCs
+iMacros script that Auto Manages All your JSCs
